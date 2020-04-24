@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aPGnFkQUaJ8X7drUuqmhf0UA9r" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -34,11 +37,11 @@
   </component>
   <component name="RunManager">
     <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bsu.rfe.java.group6.lab6.Litvinenko.metodichka.MainFrame" />
+      <option name="MAIN_CLASS_NAME" value="bsu.rfe.java.group6.lab7.Litvinenko.B3.MainFrame" />
       <module name="lab7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bsu.rfe.java.group6.lab6.Litvinenko.metodichka.*" />
+          <option name="PATTERN" value="bsu.rfe.java.group6.lab7.Litvinenko.B3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,10 +66,30 @@
       <option name="presentableId" value="Default" />
       <updated>1586629980402</updated>
       <workItem from="1586629984260" duration="692000" />
+      <workItem from="1586779347500" duration="1663000" />
+      <workItem from="1587106580105" duration="22000" />
+      <workItem from="1587494022095" duration="6814000" />
+      <workItem from="1587555235781" duration="6476000" />
+      <workItem from="1587622566920" duration="2220000" />
+      <workItem from="1587707480744" duration="40000" />
+      <workItem from="1587755822222" duration="4887000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
